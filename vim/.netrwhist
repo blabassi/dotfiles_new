@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/dstudio/Sites/ALDO-HYBRIS'
+let g:netrw_dirhist_2='/Users/dstudio/Sites/ALDO-HYBRIS/source'
+let g:netrw_dirhist_3='/Users/dstudio/Sites/ALDO-HYBRIS/source/localizable'
+let g:netrw_dirhist_4='/Users/dstudio/Sites/ALDO-HYBRIS/source'
+let g:netrw_dirhist_5='/Users/dstudio/Sites/ALDO-HYBRIS'
+let g:netrw_dirhist_6='/Users/dstudio/Sites/ALDO-HYBRIS/helpers'
+let g:netrw_dirhist_7='/Users/dstudio/Sites/ALDO-HYBRIS'
+let g:netrw_dirhist_8='/Users/dstudio/Sites'
