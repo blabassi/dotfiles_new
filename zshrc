@@ -11,6 +11,7 @@ ZSH_THEME="prose"
 alias zshconfig="subl ~/.zshrc"
 alias ohmyzsh="subl ~/.oh-my-zsh"
 EDITOR='vim'
+export EDITOR
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
 
